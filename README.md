@@ -4,8 +4,8 @@
 
 In these projects, I was able to leverage my accumulated expertise in data analysis using Python libraries. I successfully applied a comprehensive range of data analysis techniques and methodologies, facilitated by Python's libraries, to deliver robust and insightful solutions. The utilization of these libraries enabled me to effectively manipulate, visualize, and derive meaningful insights from complex datasets, underscoring my proficiency in leveraging technological tools to extract valuable information. This achievement underscores my commitment to delivering data-driven solutions and highlights my ability to employ cutting-edge technologies to solve intricate analytical challenges. 
 
-## Project 1 - e-commerce - [intermediate_project](https://github.com/oy-repin/projects/blob/main/project_1%20(1).ipynb);
-## Project 2 - e-learning - (https://github.com/oy-repin/projects/blob/main/project_2%20(1).ipynb)
+## Project 1 - e-commerce - [pre-final project 1](https://github.com/oy-repin/projects/blob/main/project_1%20(1).ipynb);
+## Project 2 - e-learning - [pre-final project 2](https://github.com/oy-repin/projects/blob/main/project_2%20(1).ipynb)
 
 The tasks of the pre-final project include:
 
