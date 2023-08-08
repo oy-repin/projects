@@ -25,4 +25,4 @@ The tasks of the pre-final project include:
 
 8. Optionally, showcasing creativity in the project: Incorporating creative elements such as graphical visualizations, tables, or other innovative approaches to present the findings and insights derived from the data.
 
-**These tasks collectively contribute to a comprehensive data analysis project, where I navigate through data intricacies, make informed decisions, and present meaningful insights.
+**These tasks collectively contribute to a comprehensive data analysis project, where I navigate through data intricacies, make informed decisions, and present meaningful insights.**
